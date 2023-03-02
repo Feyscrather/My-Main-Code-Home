@@ -1,0 +1,122 @@
+<!DOCTYPE html 5>
+ <html>
+  <head>
+    <title>Scratchers</title>
+  </head>
+  <header>
+    <h1 align = "center">Scratchers</h1>
+    <h2 align = "center">By: Reed Jackson</h2>
+  </header>
+  <body>
+    <p>&emsp; Scratchers are magic creatures that are a "mix" between cats and dogs. Scratchers are usually based around a civilization in the middle of the forest. They usually hunt for themselves unless they are below ten. Their strength and regeneration exceeds the normal mortal possabilitys. Some scientists seek this power.</p>
+  </body>
+  <aside>
+    <table align = "right">
+      <tr>
+        <th>Elemental</th>
+        <th>Type</th>
+        <th>Spell</th>
+        <th>Scratcher Forest</th>
+      </tr>
+      <a id = "Scratcher_Normal"></a>
+      <tr>
+        <td>No</td>
+        <td>Normal</td>
+        <td>N/A</td>
+        <td>Yes</td>
+      </tr>
+      <a id = "Scratcher_Cyber"></a>
+      <tr>
+        <td>No</td>
+        <td>Cyber</td>
+        <td>Hack</td>
+        <td>Yes</td>
+      </tr>
+      <a id = "Scratcher_Fire"></a>
+      <tr>
+        <td>Yes</td>
+        <td>Fire</td>
+        <td>N/A</td>
+        <td>Yes</td>
+      </tr>
+      <a id = "Scratcher_Water"></a>
+      <tr>
+        <td>Yes</td>
+        <td>Water</td>
+        <td>Bubble and Water Splash</td>
+        <td>Yes</td>
+      </tr>
+      <a id = "Scratcher_Fey"></a>
+      <tr>
+        <td>Yes</td>
+        <td>Fey</td>
+        <td>Trickster</td>
+        <td>Yes</td>
+      </tr>
+      <a id = "Scratcher_Blood"></a>
+      <tr>
+        <td>Yes</td>
+        <td>Blood</td>
+        <td>Blood Controll</td>
+        <td>Yes</td>
+      </tr>
+      <a id = "Scratcher_Air"></a>
+      <tr>
+        <td>Yes</td>
+        <td>Air</td>
+        <td>Flight and wind</td>
+        <td>Yes</td>
+      </tr>
+      <a id = "Scratcher_Earth"></a>
+      <tr>
+        <td>Yes</td>
+        <td>Earth</td>
+        <td>Controll Earth</td>
+        <td>Yes</td>
+      </tr>
+      <a id = "Scratcher_Metal"
+      <tr>
+        <td>Yes</td>
+        <td>Metal</td>
+        <td>Bend Metal</td>
+        <td>Yes</td>
+      </tr>
+      <a id = "Scratcher_Dragon"></a>
+      <tr>
+        <td>No</td>
+        <td>Dragon</td>
+        <td>Flight and Power Surge</td>
+        <td>No</td>
+      </tr>
+      <a id = "Scratcher_Mutate"></a>
+      <tr>
+        <td>?</td>
+        <td>Mutate</td>
+        <td>?</td>
+        <td>No</td>
+      </tr>
+    </table>
+  </aside>
+  <body>
+    <p>&emsp;How humans first discovered scratchers is from needing more wood. They started chopping down a forest that smells like honey. They think it's just bees until they smell dried oatmeal, a calming concotion for scratchers.</p>
+    <p>&emsp;Meanwhile, the scratchers had seen the humans and what they were doing. Recognizng this species from the fairytales, they were scared. They first thought that a strike force would be the best option. The humans had better defences, containing guns, suits, tanks, and what's electricity?</p>
+    <p>&emsp;The scratchers quickly decided after this that they can't defeat the infrantry, but could try to sneak past. They succseeded at getting past the army, but animal handling got some. Scientists first tried to tame some to act as pets, the domestication worked.</p>
+    <p>&emsp;Scientists also looked at this and (as before) wanted this power and mixed the DNA. This caused <a href = "#Scratcher_Mutate">mutates</a>, less powered scratchers working for humans. After this scratchers decided that humans stay to themselves, and so do scratchers.</p>
+    <p>&emsp;A few years later, another creature appeared in thier forest. <a href = "https://codepen.io/spider_eye/pen/oNPgzbE">Foxbats</a>. Scratchers first thought they were humans due to their humaniod shape, but quickly realized the ears and wings.</p>
+    <p>&emsp;The first thing they ever did together was sign a peace treaty with eachother. Foxbats were running out of food, and the scratchers had plenty of berrys for them. but the most advanced scratcher technology is a catapult. So foxbats helped them with that.</p>
+    <p>&emsp;Scratchers were then confused on who's side to take. Both or Neither? Foxbats were friends with humans, though also keeping the Scratchers safe from the weapons. They decided to simply stay away from humans. However, there was a time where nobody but eachother could try and save them when a certain army of Scratchers invaded; <a href = "#Scratcher_Dragon">Dragon, Scratchers</a>.</p>
+    <p>The Dragon Scratchers were a small civilization that was sealed away by the great wizard scratcher sctu-rechee(Translated is Everas). They couldn't get out until they sold the healmet of doomatude to a dragon. The Dragon, being both warshiped and given a magical weapon, broke the spell with ease.</p>
+  </body>
+  <style>
+    table{
+        border-spacing: 30px;
+        background-color:#54f542;
+        }
+    header{
+        background-color:#34ebe8;
+    }
+    body{
+        background-color:#107808;
+    }
+  </style>  
+</html>
